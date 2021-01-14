@@ -1,5 +1,4 @@
 <h1 align="center"> Welcome to my github 👋 <h1>
-<hr />
 
 <h2> Osmos <h2>
 

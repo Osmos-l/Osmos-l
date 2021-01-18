@@ -4,7 +4,7 @@
  ```lua
  local me = Osmos(  {
   ['title'] = 'Developer',
-  ['location'] = 'Toulouse,
+  ['location'] = 'Toulouse',
   ['skills'] = {
     ['LUA'] = true,
     ['PHP'] = true,
@@ -13,9 +13,9 @@
     ['NODEJS'] = true
   } )
   
-  me.addStudies( 1, "Bac pro ELEC", "Albi" )
-  me.addStudies( 2, "BTS SIO", "Toulouse" )
-  me.addStudies( 3, "L3 MIASHS", "Rodez" ).setAlternance( true )
+  me.addStudies( 1, 'Bac pro ELEC', 'Albi' )
+  me.addStudies( 2, 'BTS SIO', 'Toulouse' )
+  me.addStudies( 3, 'L3 MIASHS', 'Rodez' ).setAlternance( true )
 }
 ```
 

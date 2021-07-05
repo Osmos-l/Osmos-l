@@ -1,6 +1,6 @@
 # Welcome to my github 👋
 
-## Osmos
+## About me
  ```lua
  local me = Osmos( {
   ['title'] = 'Developer',

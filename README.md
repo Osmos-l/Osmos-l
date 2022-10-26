@@ -3,20 +3,26 @@
 ## About me
  ```lua
  local me = Osmos( {
-  ['title'] = 'Developer',
+  ['title'] = 'Software engineer',
   ['location'] = 'Toulouse',
   ['skills'] = {
      ['LANGUAGES'] = {
-       ['LUA'] = true,
-       ['PHP'] = true,
-       ['JAVASCRIPT'] = true,
-       ['TYPESCRIPT'] = true,
-       ['JAVA'] = true
+       ['Lua'] = true,
+       ['Php'] = true,
+       ['Javascript'] = true,
+       ['Java'] = true,
+       ['Ruby'] = true
      },
      ['FRAMEWORKS'] = {
-       ['SYMFONY'] = true,
-       ['NODEJS'] = true,
-       ['ANGULAR'] = true
+       ['Symfony'] = true,
+       ['NodeJS'] = true,
+       ['Angular'] = true,
+       ['Ruby on rails'] = true,
+      },
+     ['LOW CODE SOLUTIONS'] = {
+       ['Outsystem'] = true,
+       ['Faveod (Certified)'] = true,
+       ['PowerApps'] = true,
       }
     }
   } )

@@ -2,30 +2,34 @@
 
 ## About me
  ```lua
- local me = Osmos( {
-  ['title'] = 'Software engineer',
-  ['location'] = 'Toulouse',
-  ['skills'] = {
-     ['LANGUAGES'] = {
+ local me = Human()
+ 
+ me:SetTitle('Software engineer')
+ me:SetLocation('France - Toulouse')
+ 
+ me:SetLanguages({'FR', 'EN'})
+ 
+ me:SetSkills({
+     ['Languages'] = {
        ['Lua'] = true,
        ['Php'] = true,
-       ['Javascript'] = true,
+       ['JS'] = true,
        ['Java'] = true,
        ['Ruby'] = true
      },
-     ['FRAMEWORKS'] = {
+     ['Frameworks'] = {
        ['Symfony'] = true,
        ['NodeJS'] = true,
        ['Angular'] = true,
        ['Ruby on rails'] = true,
       },
-     ['LOW CODE SOLUTIONS'] = {
+     ['Low / No Code'] = {
        ['Outsystem'] = true,
        ['Faveod (Certified)'] = true,
-       ['PowerApps'] = true,
-      }
-    }
-  } )
+       ['Power Plateform'] = true,
+      })
+ 
+ me:SayHi()
 ```
 
 ## My works:

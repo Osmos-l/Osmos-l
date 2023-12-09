@@ -9,26 +9,6 @@
  
  me:SetLanguages({'FR', 'EN'})
  
- me:SetSkills({
-     ['Languages'] = {
-       ['Lua'] = true,
-       ['Php'] = true,
-       ['JS'] = true,
-       ['Java'] = true,
-       ['Ruby'] = true
-     },
-     ['Frameworks'] = {
-       ['Symfony'] = true,
-       ['NodeJS'] = true,
-       ['Angular'] = true,
-       ['Ruby on rails'] = true,
-      },
-     ['Low / No Code'] = {
-       ['Outsystem'] = true,
-       ['Faveod (Certified)'] = true,
-       ['Power Plateform'] = true,
-      })
- 
  me:SayHi()
 ```
 

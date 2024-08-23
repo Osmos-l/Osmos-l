@@ -1,13 +1,10 @@
-# Welcome to my github 👋
+<h1 align="center">Hello world👋</h1>
+<h3 align="center">My name is Jordan, I am a <b>Software Engineer</b> living in France 🇫🇷🥖🍷</h3>
 
-## About me
- ```lua
- local me = Human()
+<hr />
  
- me:SetTitle('Software engineer')
- me:SetLocation('France - Toulouse')
- 
- me:SetLanguages({'FR', 'EN'})
- 
- me:SayHi()
-```
+<h3 align="left">Connect with me:</h3>
+<p>
+ Linkedin: <a href="https://linkedin.com/in/jordanlcq" target="blank">/in/jordanlcq</a>
+</p>
+</p>

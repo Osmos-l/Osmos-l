@@ -2,8 +2,6 @@
 <h3 align="center">My name is Jordan, I am a <b>Software Engineer</b> living in France 🇫🇷🥖🍷</h3>
 
 <hr />
-<p>Currently working on https://formula1-murex.vercel.app/ </p>
- <hr />
 <h3 align="left">Connect with me:</h3>
 <p>
  Portfolio: <a href="https://jordanlcq.vercel.app/" target="_blank">jordanlcq.vercel.app</a><br />

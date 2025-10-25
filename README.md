@@ -9,7 +9,7 @@
 </p>
 </p>
 <hr />
-<h3 align="left">Currently working my side project: </h3>
+<h3 align="left">Actual side project: </h3>
 <p>
- SaaS FinTech : https://help-me-invest-tjtc.vercel.app/
+ https://help-me-invest-tjtc.vercel.app/
 </p>
